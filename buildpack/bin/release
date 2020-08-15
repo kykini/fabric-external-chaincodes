@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # The bin/release script is responsible for providing chaincode metadata to the peer. 
 # bin/release is optional. If it is not provided, this step is skipped. 
