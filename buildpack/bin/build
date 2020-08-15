@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # The bin/build script is responsible for building, compiling, or transforming the contents 
 # of a chaincode package into artifacts that can be used by release and run.
